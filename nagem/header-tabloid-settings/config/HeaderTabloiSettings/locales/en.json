@@ -1,0 +1,31 @@
+{
+    "resources": {
+        "title": "Tabloid Settings",
+        "description": "Tabloid Settings",
+        "displayTextLabel": "Display Text",
+        "displayTextHelperText": "Text to be displayed"
+    }
+}
+
+/* 
+{
+    "resources": {        
+        "title": "Offer Banner 24Hours/Night Settings",
+        "descripti1on": "Offer Banner Settings",
+        "displayTextLabel": "Texto de exibição",
+        "displayTextHelperText": "Texto que será exibido"
+        
+        "displayTextLabel": "Texto de exibição",
+        "displayTextHelperText": "Texto que será exibido"
+        
+        "displayTextLabel": "Texto de exibição",
+        "displayTextHelperText": "Texto que será exibido"
+        
+        "displayTextLabel": "Texto de exibição",
+        "displayTextHelperText": "Texto que será exibido"
+        
+        "displayTextLabel": "Texto de exibição",
+        "displayTextHelperText": "Texto que será exibido"
+    }
+}
+*/

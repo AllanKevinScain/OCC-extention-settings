@@ -1,0 +1,31 @@
+{
+    "resources": {
+        "title": "Configurações do Tabloid",
+        "description": "Configurações do Tabloid",
+        "displayTextLabel": "Texto de exibição",
+        "displayTextHelperText": "Texto que será exibido"
+    }
+}
+
+/* 
+{
+    "resources": {
+        "title": "Configuração do Banner de Oferta 24horas/Notruna",
+        "description": "Configuração do Banner de Oferta",
+        "displayTextLabel": "Texto de exibição",
+        "displayTextHelperText": "Texto que será exibido"
+        
+        "displayTextLabel": "Texto de exibição",
+        "displayTextHelperText": "Texto que será exibido"
+        
+        "displayTextLabel": "Texto de exibição",
+        "displayTextHelperText": "Texto que será exibido"
+        
+        "displayTextLabel": "Texto de exibição",
+        "displayTextHelperText": "Texto que será exibido"
+        
+        "displayTextLabel": "Texto de exibição",
+        "displayTextHelperText": "Texto que será exibido"
+    }
+}
+*/

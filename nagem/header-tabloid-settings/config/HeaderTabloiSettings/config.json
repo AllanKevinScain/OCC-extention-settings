@@ -1,0 +1,15 @@
+{
+  "titleResourceId": "title",
+  "descriptionResourceId": "description",
+  "properties": [
+    {
+      "id": "displayText",
+      "name": "displayText",
+      "type": "stringType",
+      "labelResourceId": "displayTextLabel",
+      "defaultValue": "Veja o Tabloide Nagem",
+      "helpTextResourceId": "displayTextHelperText",
+      "pattern": "^[^@#¨&()]*$"
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "extensionID": "56a86ee6-115d-49dd-ab13-74d4d2d39f5a",
+  "developerID": "Allan",
+  "createdBy": "Lighthouse",
+  "version": 1,
+  "timeCreated": "2023-05-16",
+  "translations": [
+    {
+      "language": "en_US",
+      "name": "Offer Banner 24hours/Night Settings - header",
+      "description": "Offer Banner 24hours/Night Settings"
+    },
+    {
+      "language": "pt_BR",
+      "name": "Configurações do Banner de oferta 24horas/Noturna - Busca",
+      "description": "Configurações do Banner de Oferta"
+    }
+  ]
+}

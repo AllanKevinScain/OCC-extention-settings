@@ -1,8 +1,0 @@
-{
-    "resources": {
-        "title": "Minimum Installments",
-        "description": "Set the minimum installments (Example: 10,00 or 100,00 or 1.000,00)",
-        "minimumInstallmentLabel": "Minimum Installments",
-        "minimumInstallmentHelpText": "Set the minimum installments for order payment"
-    }
-}
