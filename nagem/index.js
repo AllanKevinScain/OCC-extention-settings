@@ -1,5 +1,5 @@
-const regex = new RegExp("^(https?:\\/\\/)?([\\w.-]+)\\.([a-z]{2,})(\\/\\S*)?$", "i");
-const url = "htt://www.example.com/path";
+const regex = new RegExp("\\.(png|jpe?g|gif|bmp|webp)$");
+const url = "imagem.bmp";
 
 if (regex.test(url)) {
   console.log("URL válida");

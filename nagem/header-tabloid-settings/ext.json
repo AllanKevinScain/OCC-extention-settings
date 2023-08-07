@@ -7,13 +7,13 @@
   "translations": [
     {
       "language": "en_US",
-      "name": "Offer Banner 24hours/Night Settings - header",
-      "description": "Offer Banner 24hours/Night Settings"
+      "name": "Tabloid Settings - header",
+      "description": "Tabloid Settings"
     },
     {
       "language": "pt_BR",
-      "name": "Configurações do Banner de oferta 24horas/Noturna - Busca",
-      "description": "Configurações do Banner de Oferta"
+      "name": "Configurações do Tabloid - Busca",
+      "description": "Configurações do Tabloid"
     }
   ]
 }

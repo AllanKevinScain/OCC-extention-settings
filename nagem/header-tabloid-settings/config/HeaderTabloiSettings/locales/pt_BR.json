@@ -3,29 +3,12 @@
         "title": "Configurações do Tabloid",
         "description": "Configurações do Tabloid",
         "displayTextLabel": "Texto de exibição",
-        "displayTextHelperText": "Texto que será exibido"
+        "displayTextHelperText": "Texto que será exibido",
+        "urlLabel": "URL",
+        "urlHelperText": "Link de direcionamento",
+        "initialDateLabel": "Data inicial",
+        "initialDateHelperText": "Data inicial da exibição",
+        "finalDateLabel": "Data final",
+        "finalDateHelperText": "Data final da exibição"
     }
 }
-
-/* 
-{
-    "resources": {
-        "title": "Configuração do Banner de Oferta 24horas/Notruna",
-        "description": "Configuração do Banner de Oferta",
-        "displayTextLabel": "Texto de exibição",
-        "displayTextHelperText": "Texto que será exibido"
-        
-        "displayTextLabel": "Texto de exibição",
-        "displayTextHelperText": "Texto que será exibido"
-        
-        "displayTextLabel": "Texto de exibição",
-        "displayTextHelperText": "Texto que será exibido"
-        
-        "displayTextLabel": "Texto de exibição",
-        "displayTextHelperText": "Texto que será exibido"
-        
-        "displayTextLabel": "Texto de exibição",
-        "displayTextHelperText": "Texto que será exibido"
-    }
-}
-*/

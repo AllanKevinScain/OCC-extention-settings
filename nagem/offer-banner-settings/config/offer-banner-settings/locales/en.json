@@ -1,0 +1,20 @@
+{
+    "resources": {
+        "title": "24-hour/Night Offer Banner Settings",
+        "description": "Offer Banner Settings",
+        "exibitionTypeLabel": "Banner display type",
+        "exibitionTypeHelperText": "How the Banner will be displayed (default, dynamic)",
+        "offerTypeLabel": "Banner Type/Variant",
+        "offerTypeHelperText": "What will be the variant of the Banner (isNightOffer, isTwentyFourOffer)",
+        "idsLabel": "Ids",
+        "idsHelperText": "Ids of the products that will be displayed (separated by ',')",
+        "finalDateLabel": "Final of offer",
+        "finalDateHelperText": "Offer final date (MM/DD/YYYY hh:mm)",
+        "exibitionImageLabel": "Banner main image",
+        "exibitionImageHelperText": "Product image that will be displayed (this image only appears in the 'dynamic' variant)",
+        "exclusiveAppOfferBannerLabel": "APP offer banner",
+        "exclusiveAppOfferBannerHelperText": "Exclusive image for the APP (used to render another banner)",
+        "exclusiveWebTecnicalInformationProductLabel": "WEB technical information",
+        "exclusiveWebTecnicalInformationProductHelperText": "Banner technical information exclusive to the WEB (list that appears in the banner, separated by ',')"
+    }
+}

@@ -1,0 +1,8 @@
+{
+    "resources": {
+        "title": "Parcela Mínima",
+        "description": "Defina a parcela mínima (Exemplo: 10,00 ou 100,00 ou 1.000,00)",
+        "minimumInstallmentLabel": "Parcela Mínima",
+        "minimumInstallmentHelpText": "Defina a parcela mínima para o pagamento do pedido"
+    }
+}
