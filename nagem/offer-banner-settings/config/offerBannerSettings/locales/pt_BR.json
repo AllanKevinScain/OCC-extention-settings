@@ -1,20 +1,20 @@
 {
-    "resources": {
-        "title": "Configuração do Banner de Oferta 24horas/Notruna",
-        "description": "Configuração do Banner de Oferta",
-        "exibitionTypeLabel": "Tipo de exibição do Banner",
-        "exibitionTypeHelperText": "Como o Banner será mostrado (default, dynamic)",
-        "offerTypeLabel": "Tipo/Variant do Banner",
-        "offerTypeHelperText": "Qual será a variante do Banner (isNightOffer, isTwentyFourOffer)",
-        "idsLabel": "Ids",
-        "idsHelperText": "Ids dos produtos que serão exibidos (separado por ',')",
-        "finalDateLabel": "Término da oferta",
-        "finalDateHelperText": "Data de término da oferta (MM/DD/AAAA hh:mm)",
-        "exibitionImageLabel": "Principal imagem do Banner",
-        "exibitionImageHelperText": "Imagem do Produto que será exibida (esta imagem só aparece na variant 'dynamic')",
-        "exclusiveAppOfferBannerLabel": "Banner de oferta APP",
-        "exclusiveAppOfferBannerHelperText": "Imagem exclusiva para o APP (utilizada para renderizar outro banner)",
-        "exclusiveWebTecnicalInformationProductLabel": "Informação técnica WEB",
-        "exclusiveWebTecnicalInformationProductHelperText": "Informação técnica do Banner exclusiva para o WEB (lista que aparece no baner, separado por ',')"
-    }
+  "resources": {
+    "title": "Configuração do Banner de Oferta 24horas/Noturna",
+    "description": "Configuração do Banner de Oferta",
+    "exibitionTypeLabel": "Tipo de exibição do Banner",
+    "exibitionTypeHelperText": "Como o Banner será mostrado (default, dynamic)",
+    "offerTypeLabel": "Tipo/Variant do Banner",
+    "offerTypeHelperText": "Qual será a variante do Banner (isNightOffer, isTwentyFourOffer)",
+    "idsLabel": "Ids",
+    "idsHelperText": "Ids dos produtos que serão exibidos (separado por ',')",
+    "finalDateLabel": "Término da oferta",
+    "finalDateHelperText": "Data de término da oferta (MM/DD/AAAA hh:mm)",
+    "exibitionImageLabel": "Principal imagem do Banner",
+    "exibitionImageHelperText": "Imagem do Produto que será exibida (esta imagem só aparece na variant 'dynamic')",
+    "exclusiveAppOfferBannerLabel": "Banner de oferta APP",
+    "exclusiveAppOfferBannerHelperText": "Imagem exclusiva para o APP (utilizada para renderizar outro banner)",
+    "exclusiveWebTecnicalInformationProductLabel": "Informação técnica WEB",
+    "exclusiveWebTecnicalInformationProductHelperText": "Informação técnica do Banner exclusiva para o WEB (lista que aparece no baner, separado por ',')"
+  }
 }

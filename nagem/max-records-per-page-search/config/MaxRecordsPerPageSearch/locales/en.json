@@ -1,0 +1,10 @@
+{
+    "resources": {
+        "title": "Max Records per page - Search",
+        "description": "Set the max quantity of records per page - Search",
+        "mobileMaxRecordsLabel": "Max quantity Mobile",
+        "desktopMaxRecordsLabel": "Max quantity Desktop",
+        "mobileMaxRecordsHelperText": "Set the max quantity of records per page - Search - Mobile",
+        "desktopMaxRecordsHelperText": "Set the max quantity of records per page - Search - Desktop"
+    }
+}

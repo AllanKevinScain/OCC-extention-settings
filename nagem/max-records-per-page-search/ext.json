@@ -1,0 +1,19 @@
+{
+  "extensionID": "6114510d-e6a4-4298-8045-baab422673aa",
+  "developerID": "Flamarion",
+  "createdBy": "Lighthouse",
+  "version": 1,
+  "timeCreated": "2023-04-10",
+  "translations": [
+    {
+      "language": "en_US",
+      "name": "Max Records per page - Search",
+      "description": "Set the max quantity of records per page - Search"
+    },
+    {
+      "language": "pt_BR",
+      "name": "Resultado máximo de resultados por página - Busca",
+      "description": "Define a quantidade máxima de resultados por página - Busca"
+    }
+  ]
+}

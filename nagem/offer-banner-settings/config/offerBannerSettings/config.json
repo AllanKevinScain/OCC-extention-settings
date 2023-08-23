@@ -9,6 +9,7 @@
       "labelResourceId": "exibitionTypeLabel",
       "helpTextResourceId": "exibitionTypeHelperText",
       "defaultValue": "default",
+      "required": true,
       "options": [
         {
           "id": "default",
@@ -29,6 +30,7 @@
       "labelResourceId": "offerTypeLabel",
       "helpTextResourceId": "offerTypeHelperText",
       "defaultValue": "isTwentyFourOffer",
+      "required": true,
       "options": [
         {
           "id": "isNightOffer",

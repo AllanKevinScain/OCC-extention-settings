@@ -1,0 +1,10 @@
+{
+    "resources": {
+        "title": "Resultado máximo de resultados por página - Busca",
+        "description": "Define a quantidade máxima de resultados por página - Busca",
+        "mobileMaxRecordsLabel": "Quantidade máxima Mobile",
+        "desktopMaxRecordsLabel": "Quantidade máxima Desktop",
+        "mobileMaxRecordsHelperText": "Quantidade máxima de resultados por página para dispositivos móveis",
+        "desktopMaxRecordsHelperText": "Quantidade máxima de resultados por página para desktops"
+    }
+}

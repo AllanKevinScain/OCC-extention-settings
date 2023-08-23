@@ -1,0 +1,24 @@
+{
+  "titleResourceId": "title",
+  "descriptionResourceId": "description",
+  "properties": [
+    {
+      "id": "mobileMaxRecords",
+      "name": "mobileMaxRecords",
+      "type": "stringType",
+      "labelResourceId": "mobileMaxRecordsLabel",
+      "defaultValue": "10",
+      "helpTextResourceId": "mobileMaxRecordsHelperText",
+      "pattern": "^[1-9]\\d*$"
+    },
+    {
+      "id": "desktopMaxRecords",
+      "name": "desktopMaxRecords",
+      "type": "stringType",
+      "labelResourceId": "desktopMaxRecordsLabel",
+      "defaultValue": "16",
+      "helpTextResourceId": "desktopMaxRecordsHelperText",
+      "pattern": "^[1-9]\\d*$"
+    }
+  ]
+}

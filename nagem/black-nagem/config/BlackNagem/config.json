@@ -1,0 +1,37 @@
+{
+  "titleResourceId": "title",
+  "descriptionResourceId": "description",
+  "properties": [
+    {
+      "id": "blackNagemStartDate",
+      "name": "blackNagemStartDate",
+      "type": "stringType",
+      "labelResourceId": "startDateLabel",
+      "helpTextResourceId": "startDateHelperText",
+      "pattern": "^(\\d{4})\\/(0[1-9]|1[0-2])\\/(0[1-9]|[1-2]\\d|3[0-1])-(0\\d|1\\d|2[0-3]):([0-5]\\d):([0-5]\\d)$"
+    },
+    {
+      "id": "blackNagemStartDateAccessForPage",
+      "name": "blackNagemStartDateAccessForPage",
+      "type": "stringType",
+      "labelResourceId": "startDateAccessForPageLabel",
+      "helpTextResourceId": "startDateAccessForPageHelperText",
+      "pattern": "^(\\d{4})\\/(0[1-9]|1[0-2])\\/(0[1-9]|[1-2]\\d|3[0-1])-(0\\d|1\\d|2[0-3]):([0-5]\\d):([0-5]\\d)$"
+    },
+    {
+      "id": "blackNagemEndDateAccessForPage",
+      "name": "blackNagemEndDateAccessForPage",
+      "type": "stringType",
+      "labelResourceId": "endDateAccessForPageLabel",
+      "helpTextResourceId": "endDateAccessForPageHelperText",
+      "pattern": "^(\\d{4})\\/(0[1-9]|1[0-2])\\/(0[1-9]|[1-2]\\d|3[0-1])-(0\\d|1\\d|2[0-3]):([0-5]\\d):([0-5]\\d)$"
+    },
+    {
+      "id": "blackNagemNotAvaliableRedirectLink",
+      "name": "blackNagemNotAvaliableRedirectLink",
+      "type": "stringType",
+      "labelResourceId": "notAvaliableRedirectLinkLabel",
+      "helpTextResourceId": "notAvaliableRedirectLinkHelperText"
+    }
+  ]
+}
