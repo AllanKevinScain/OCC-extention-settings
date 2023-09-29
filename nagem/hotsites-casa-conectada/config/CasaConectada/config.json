@@ -1,0 +1,29 @@
+{
+  "titleResourceId": "title",
+  "descriptionResourceId": "description",
+  "properties": [
+    {
+      "id": "casaConectadaStartDateAccessForPage",
+      "name": "casaConectadaStartDateAccessForPage",
+      "type": "stringType",
+      "labelResourceId": "startDateAccessForPageLabel",
+      "helpTextResourceId": "startDateAccessForPageHelperText",
+      "pattern": "^(\\d{4})\\/(0[1-9]|1[0-2])\\/(0[1-9]|[1-2]\\d|3[0-1])-(0\\d|1\\d|2[0-3]):([0-5]\\d):([0-5]\\d)$"
+    },
+    {
+      "id": "casaConectadaEndDateAccessForPage",
+      "name": "casaConectadaEndDateAccessForPage",
+      "type": "stringType",
+      "labelResourceId": "endDateAccessForPageLabel",
+      "helpTextResourceId": "endDateAccessForPageHelperText",
+      "pattern": "^(\\d{4})\\/(0[1-9]|1[0-2])\\/(0[1-9]|[1-2]\\d|3[0-1])-(0\\d|1\\d|2[0-3]):([0-5]\\d):([0-5]\\d)$"
+    },
+    {
+      "id": "casaConectadaNotAvaliableRedirectLink",
+      "name": "casaConectadaNotAvaliableRedirectLink",
+      "type": "stringType",
+      "labelResourceId": "notAvaliableRedirectLinkLabel",
+      "helpTextResourceId": "notAvaliableRedirectLinkHelperText"
+    }
+  ]
+}

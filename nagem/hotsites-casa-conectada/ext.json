@@ -1,0 +1,19 @@
+{
+  "extensionID": "eed7a2eb-c995-4024-8f75-888d78dca8e8",
+  "developerID": "Flamarion Fagundes Pinto",
+  "createdBy": "Lighthouse",
+  "version": 1,
+  "timeCreated": "2023-09-26",
+  "translations": [
+    {
+      "language": "en_US",
+      "name": "Connected Home",
+      "description": "Connected Home Settings"
+    },
+    {
+      "language": "pt_BR",
+      "name": "Casa Conectada",
+      "description": "Configurações da Casa Conectada"
+    }
+  ]
+}
