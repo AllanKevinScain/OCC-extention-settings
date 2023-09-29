@@ -1,0 +1,12 @@
+{
+  "resources": {
+    "title": "Gamers Zone",
+    "description": "Configurações Gamers Zone",
+    "startDateLabel": "Data de ínicio da campanha Gamers Zone",
+    "startDateHelperText": "Define o início da campanha (Pattern: MM/DD/YYYY hh:mm)",
+    "endDateLabel": "Data final da campanha Gamers Zone",
+    "endDateHelperText": "Define o final da campanha (Pattern: MM/DD/YYYY hh:mm)",
+    "notAvaliableRedirectLinkLabel": "Link de redirecionamento",
+    "notAvaliableRedirectLinkHelperText": "Link de redirecionamento caso a página não esteja disponível"
+  }
+}

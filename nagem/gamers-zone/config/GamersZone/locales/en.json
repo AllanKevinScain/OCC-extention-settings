@@ -1,0 +1,12 @@
+{
+  "resources": {
+    "title": "Gamers Zone",
+    "description": "Gamers Zone Settings",
+    "startDateLabel": "Start Date Gamers Zone Campaing",
+    "startDateHelperText": "Sets campaign start date (Pattern: MM/DD/YYYY hh:mm)",
+    "endDateLabel": "Start Date Gamers Zone Campaing",
+    "endDateHelperText": "Sets campaign start date (Pattern: MM/DD/YYYY hh:mm)",
+    "notAvaliableRedirectLinkLabel": "Redirect Link for not available campaing",
+    "notAvaliableRedirectLinkHelperText": "Sets redirect link for not avaliable campaing"
+  }
+}

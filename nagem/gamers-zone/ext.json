@@ -1,0 +1,19 @@
+{
+  "extensionID": "cc6fd36c-510a-44ee-b4a0-1fc4e557de87",
+  "developerID": "Allan",
+  "createdBy": "Lighthouse",
+  "version": 1,
+  "timeCreated": "2023-03-02",
+  "translations": [
+    {
+      "language": "en_US",
+      "name": "Gamers Zone",
+      "description": "Gamers Zone settings"
+    },
+    {
+      "language": "pt_BR",
+      "name": "Gamers Zone",
+      "description": "Configurações da Gamers Zone"
+    }
+  ]
+}
