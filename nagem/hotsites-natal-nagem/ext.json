@@ -1,0 +1,19 @@
+{
+  "extensionID": "42dc86fc-71b5-42b1-b28d-9fe4528ff805",
+  "developerID": "Matheus Garrido",
+  "createdBy": "Lighthouse",
+  "version": 1,
+  "timeCreated": "2023-03-02",
+  "translations": [
+    {
+      "language": "en_US",
+      "name": "Nagem Christmas",
+      "description": "Nagem Christmas Settings"
+    },
+    {
+      "language": "pt_BR",
+      "name": "Natal Nagem",
+      "description": "Configurações do Natal Nagem"
+    }
+  ]
+}

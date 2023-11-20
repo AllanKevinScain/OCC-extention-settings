@@ -1,0 +1,19 @@
+{
+  "extensionID": "420c056d-f70b-4b9c-b6e4-9885de5d8ddc",
+  "developerID": "Matheus Garrido",
+  "createdBy": "Lighthouse",
+  "version": 1,
+  "timeCreated": "2023-03-02",
+  "translations": [
+    {
+      "language": "en_US",
+      "name": "Black Nagem After",
+      "description": "Black Nagem After Settings"
+    },
+    {
+      "language": "pt_BR",
+      "name": "Prorroga Black Nagem",
+      "description": "Configurações da Prorroga Black Nagem"
+    }
+  ]
+}

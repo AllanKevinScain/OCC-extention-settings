@@ -1,0 +1,19 @@
+{
+  "extensionID": "d94eb606-9a6c-419f-9214-b862c15c6366",
+  "developerID": "Matheus Garrido",
+  "createdBy": "Lighthouse",
+  "version": 1,
+  "timeCreated": "2023-03-02",
+  "translations": [
+    {
+      "language": "en_US",
+      "name": "Back to School",
+      "description": "Back to School Settings"
+    },
+    {
+      "language": "pt_BR",
+      "name": "Volta às Aulas",
+      "description": "Configurações da Volta às Aulas"
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "extensionID": "8dabe7f8-8238-4404-ad27-145d698606f5",
+  "developerID": "Flamarion",
+  "createdBy": "Lighthouse",
+  "version": 1,
+  "timeCreated": "2023-03-02",
+  "translations": [
+    {
+      "language": "en_US",
+      "name": "Black Nagem Landing Page",
+      "description": "Black Nagem settings"
+    },
+    {
+      "language": "pt_BR",
+      "name": "Black Nagem Landing Page",
+      "description": "Configurações da Black Nagem"
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "extensionID": "754a71b2-e0d8-4989-9bc5-a4663bc717e5",
+  "developerID": "Matheus Garrido",
+  "createdBy": "Lighthouse",
+  "version": 1,
+  "timeCreated": "2023-03-02",
+  "translations": [
+    {
+      "language": "en_US",
+      "name": "Nagem Festival",
+      "description": "Nagem Festival Settings"
+    },
+    {
+      "language": "pt_BR",
+      "name": "Festival Nagem",
+      "description": "Configurações do Festival Nagem"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "resources": {
+    "title": "Prorroga Black Nagem",
+    "description": "Configurações da Prorroga Black Nagem",
+    "startDateAccessForPageLabel": "Data de início de disponibilização da página",
+    "startDateAccessForPageHelperText": "Define a data de início de disponibilização do acesso a página da campanha Prorroga Black Nagem (Formato: AAAA/MM/DD-HH:MM:SS)",
+    "endDateAccessForPageLabel": "Data final de disponibilização da página",
+    "endDateAccessForPageHelperText": "Define a data final de disponibilização do acesso a página da campanha Prorroga Black Nagem (Formato: AAAA/MM/DD-HH:MM:SS)",
+    "notAvaliableRedirectLinkLabel": "Link de redirecionamento para quando a campanha não estiver disponível",
+    "notAvaliableRedirectLinkHelperText": "Define o link de redirecionamento para quando a campanha não estiver disponível"
+  }
+}

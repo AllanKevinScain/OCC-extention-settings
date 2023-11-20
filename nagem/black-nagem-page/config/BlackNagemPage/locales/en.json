@@ -1,0 +1,14 @@
+{
+  "resources": {
+    "title": "Black Nagem Page",
+    "description": "Black Nagem Main Page Settings",
+    "startDateLabel": "Start Date Black Nagem Campaing",
+    "startDateHelperText": "Sets campaign start date (Pattern: AAAA/MM/DD-HH:MM:SS)",
+    "startDateAccessForPageLabel": "Start Date for page availability",
+    "startDateAccessForPageHelperText": "Sets the start date for access to the Black Nagem campaign page (Pattern: AAAA/MM/DD-HH:MM:SS)",
+    "endDateAccessForPageLabel": "End Date for page availability",
+    "endDateAccessForPageHelperText": "Sets the end date for access to the Black Nagem campaign page (Pattern: AAAA/MM/DD-HH:MM:SS)",
+    "notAvaliableRedirectLinkLabel": "Redirect Link for not available campaing",
+    "notAvaliableRedirectLinkHelperText": "Sets redirect link for not avaliable campaing"
+  }
+}

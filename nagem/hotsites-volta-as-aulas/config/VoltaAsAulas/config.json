@@ -1,0 +1,29 @@
+{
+  "titleResourceId": "title",
+  "descriptionResourceId": "description",
+  "properties": [
+    {
+      "id": "voltaAsAulasStartDateAccessForPage",
+      "name": "voltaAsAulasStartDateAccessForPage",
+      "type": "stringType",
+      "labelResourceId": "startDateAccessForPageLabel",
+      "helpTextResourceId": "startDateAccessForPageHelperText",
+      "pattern": "^(\\d{4})\\/(0[1-9]|1[0-2])\\/(0[1-9]|[1-2]\\d|3[0-1])-(0\\d|1\\d|2[0-3]):([0-5]\\d):([0-5]\\d)$"
+    },
+    {
+      "id": "voltaAsAulasEndDateAccessForPage",
+      "name": "voltaAsAulasEndDateAccessForPage",
+      "type": "stringType",
+      "labelResourceId": "endDateAccessForPageLabel",
+      "helpTextResourceId": "endDateAccessForPageHelperText",
+      "pattern": "^(\\d{4})\\/(0[1-9]|1[0-2])\\/(0[1-9]|[1-2]\\d|3[0-1])-(0\\d|1\\d|2[0-3]):([0-5]\\d):([0-5]\\d)$"
+    },
+    {
+      "id": "voltaAsAulasNotAvaliableRedirectLink",
+      "name": "voltaAsAulasNotAvaliableRedirectLink",
+      "type": "stringType",
+      "labelResourceId": "notAvaliableRedirectLinkLabel",
+      "helpTextResourceId": "notAvaliableRedirectLinkHelperText"
+    }
+  ]
+}

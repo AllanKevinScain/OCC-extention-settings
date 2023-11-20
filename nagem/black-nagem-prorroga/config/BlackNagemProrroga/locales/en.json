@@ -1,0 +1,12 @@
+{
+  "resources": {
+    "title": "Black Nagem After",
+    "description": "Black Nagem After Settings",
+    "startDateAccessForPageLabel": "Start Date for page availability",
+    "startDateAccessForPageHelperText": "Sets the start date for access to the Black Nagem After campaign page (Pattern: AAAA/MM/DD-HH:MM:SS)",
+    "endDateAccessForPageLabel": "End Date for page availability",
+    "endDateAccessForPageHelperText": "Sets the end date for access to the Black Nagem After campaign page (Pattern: AAAA/MM/DD-HH:MM:SS)",
+    "notAvaliableRedirectLinkLabel": "Redirect Link for not available campaing",
+    "notAvaliableRedirectLinkHelperText": "Sets redirect link for not avaliable campaing"
+  }
+}

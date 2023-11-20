@@ -1,0 +1,19 @@
+{
+  "extensionID": "60f04c6b-61b3-4134-b353-657809746695",
+  "developerID": "Matheus Garrido",
+  "createdBy": "Lighthouse",
+  "version": 1,
+  "timeCreated": "2023-03-02",
+  "translations": [
+    {
+      "language": "en_US",
+      "name": "Black Nagem Page",
+      "description": "Black Nagem Main Page Settings"
+    },
+    {
+      "language": "pt_BR",
+      "name": "Página Black Nagem",
+      "description": "Configurações da Página Principal da Black Nagem"
+    }
+  ]
+}

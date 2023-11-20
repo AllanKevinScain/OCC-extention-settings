@@ -1,0 +1,19 @@
+{
+  "extensionID": "f839b22c-4933-49d9-be8c-cc5b47276f40",
+  "developerID": "Matheus Garrido",
+  "createdBy": "Lighthouse",
+  "version": 1,
+  "timeCreated": "2023-03-02",
+  "translations": [
+    {
+      "language": "en_US",
+      "name": "Customer Week",
+      "description": "Customer Week Settings"
+    },
+    {
+      "language": "pt_BR",
+      "name": "Semana do Consumidor",
+      "description": "Configurações da Semana do Consumidor"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "resources": {
+    "title": "Nagem Festival",
+    "description": "Nagem Festival Settings",
+    "startDateAccessForPageLabel": "Start Date for page availability",
+    "startDateAccessForPageHelperText": "Sets the start date for access to the Nagem Festival campaign page (Pattern: AAAA/MM/DD-HH:MM:SS)",
+    "endDateAccessForPageLabel": "End Date for page availability",
+    "endDateAccessForPageHelperText": "Sets the end date for access to the Nagem Festival campaign page (Pattern: AAAA/MM/DD-HH:MM:SS)",
+    "notAvaliableRedirectLinkLabel": "Redirect Link for not available campaing",
+    "notAvaliableRedirectLinkHelperText": "Sets redirect link for not avaliable campaing"
+  }
+}
